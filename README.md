@@ -2,6 +2,7 @@
 ## > "Work in *progress*, always *improving.*" <
 ### <ins>About me!<ins>
 A *creative, adaptable mind* with a passion for *solving problems*. A few interests include engaging in **digital art**, the **culinary arts**, and the **music industry**.
+![Banner](../visuals/profile-banner.png)
 ### 	<ins>SKILLS	<ins>
   --> Creativity
   
