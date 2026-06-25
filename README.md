@@ -1,5 +1,6 @@
 # GE-IT-Skills-portfolio
 <img width="1584" height="396" alt="profile-banner" src="https://github.com/user-attachments/assets/20f5294f-cdd3-4a25-b9af-205c4dfc73d2" />
+
 # AINJELLE LOUISE C. OANDASAN
 
 ## > "Work in *progress*, always *improving.*" <
