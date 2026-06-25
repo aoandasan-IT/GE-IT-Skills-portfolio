@@ -37,6 +37,24 @@ For my personal logo, I wanted to create an elegant monogram that feels sophisti
 <img width="943" height="2000" alt="infographics-project" src="https://github.com/user-attachments/assets/b3448818-961a-4fe5-9ec1-16ef5a00adfd" />
 For this infographic, I wanted to translate an academic text into a visually engaging story. I used a structured, numbered timeline paired with clean, thematic icons to guide the viewer naturally from the problem statement down to the final results. Maintaining the exact same green color palette kept the design anchored to my personal branding.
 
+## **PROTOTYPE**
+<img width="1235" height="802" alt="Screenshot 2026-06-25 172205" src="https://github.com/user-attachments/assets/7dbe5b89-b813-4395-a5e6-9db1337da8e5" />
+For this prototype, I used the same color palette used in previous visuals and projects to maintain consistency. I also added pictures of myself to create visuals that looked creative.
+
+## **PERSONAL INTRODUCTION**
+<img width="1206" height="672" alt="image" src="https://github.com/user-attachments/assets/0757a40d-02c6-4549-b5ed-5d2781dea5bc" />
+In this introduction video, I continued to lean on the color palette I made previously. I also added simple transitions to make the video flow seamless.
+
+## **PROFILE BANNER**
+<img width="1584" height="396" alt="profile-banner" src="https://github.com/user-attachments/assets/9e414cdb-0d7d-482b-a5da-e2f483520612" />
+This profile banner shows the same color palette as well. It displays a professional, yet elegant vibe.
+
+## **SQUARE PROMOTIONAL**
+<img width="1080" height="1080" alt="square-promotional" src="https://github.com/user-attachments/assets/c13799e7-7f39-4628-a66f-2e19c76067a0" />
+The square promotional displays all elements I've kept consistent throught other projects. It also uses the same green color palette.
+
+
+
 
 # **_AI EXPLORER_**
 ## **Prompt Engineering (Text & Image Generation)**
