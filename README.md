@@ -7,8 +7,6 @@
 A *creative, adaptable mind* with a passion for *solving problems*. A few interests include engaging in **digital art**, the **culinary arts**, and the **music industry**.
 
 
-<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/c8713704-7806-4a78-b7ae-72cf1b77390e" />
-
 ### 	<ins>SKILLS	<ins>
   --> Creativity
   
@@ -25,19 +23,19 @@ A *creative, adaptable mind* with a passion for *solving problems*. A few intere
 # **_REFLECTION_**
 ## C.R.A.P. PRINCIPLES
 <img width="1342" height="757" alt="image" src="https://github.com/user-attachments/assets/912d0c2a-8828-4104-b6b7-5c61e1b53ede" />
-When putting this together, I wanted my portfolio to feel incredibly clean and professional without losing a sense of personal warmth. By using a grounded, nature-inspired palette of Parchment, Dry Sage, and Hunter Green, the entire document feels cohesive and easy on the eyes from start to finish.
+When putting this together, I wanted my portfolio to feel clean and professional without losing a sense of what makes it represent me. I used a nature-inspired palette of Parchment, Dry Sage, and Hunter Green to fit my personal preference. 
 
 ## **BRANDING PALETTE**
 <img width="1171" height="827" alt="image" src="https://github.com/user-attachments/assets/f3edb30e-3553-466d-ab7b-f952e7246cee" />
-I chose this specific palette because I wanted a visual identity that feels calm, grounded, and thoroughly professional. By pairing a clean Parchment (#F1F0EB) background with the soft tones of Dry Sage (#A3B18A) and the depth of Hunter Green (#40683F), the portfolio achieves a natural balance. It gives the entire project a cohesive, intentional look that is incredibly easy on the eyes while subtly standing out from a typical monochrome corporate resume.
+I chose this specific palette because I wanted it to visualize who I am, as green symbolizes growth . By pairing a clean Parchment (#F1F0EB) background with the soft tones of Dry Sage (#A3B18A) and the depth of Hunter Green (#40683F), my portfolio achieves a natural balance. It makes the project cohesive and easy on the eyes.
 
 ## **LOGO**
 <img width="621" height="620" alt="image" src="https://github.com/user-attachments/assets/b1e118fd-3265-496c-8058-33c929cfa88b" />
-For my personal logo, I wanted to create an elegant monogram that feels sophisticated yet approachable. Interlocking the initials "A" and "L" in Dry Sage and Hunter Green establishes a strong sense of balance and connection, while the delicate star accents add a touch of personality and growth. The clean serif typography below anchors the design, creating a polished, professional brand mark that ties my entire identity together perfectly.
+For my personal logo, I wanted to create an elegant monogram that feels sophisticated yet approachable. Interlocking the initials "A" and "L" from "Ainjelle Louise" in Dry Sage and Hunter Green portrays a strong sense of balance and connection, while the delicate star accents add a touch of my personality. The serif font makes it look more polished and professional, making it tie into my personality and aesthetic all together.
 
 ## **INFOGRAPHIC**
 <img width="943" height="2000" alt="infographics-project" src="https://github.com/user-attachments/assets/b3448818-961a-4fe5-9ec1-16ef5a00adfd" />
-For this infographic, I wanted to translate a dense, academic framework into a highly visual and engaging story. I used a structured, numbered timeline paired with clean, thematic icons to guide the viewer naturally from the problem statement down to the final results. Maintaining the exact same Parchment and green color palette kept the design anchored to my personal branding, proving that complex, technical data can be both thoroughly organized and visually appealing.
+For this infographic, I wanted to translate an academic text into a visually engaging story. I used a structured, numbered timeline paired with clean, thematic icons to guide the viewer naturally from the problem statement down to the final results. Maintaining the exact same green color palette kept the design anchored to my personal branding.
 
 
 # **_AI EXPLORER_**
