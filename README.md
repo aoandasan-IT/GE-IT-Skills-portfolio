@@ -4,7 +4,8 @@
 
 ## > "Work in *progress*, always *improving.*" <
 ### <ins>About me!<ins>
-A *creative, adaptable mind* with a passion for *solving problems*. A few interests include engaging in **digital art**, the **culinary arts**, and the **music industry**.
+A creative problem-solver driven by a passion for innovation across diverse industries. With an adaptable mindset and a distinct artistic perspective, I excel at finding inventive solutions to complex challenges.
+Outside of the traditional professional sphere, I channel my creativity into digital art, explore innovation through the culinary arts, and closely follow trends within the music industry. This unique blend of analytical thinking and artistic passion allows me to bring fresh, lateral perspectives to every project I touch.
 
 
 ### 	<ins>SKILLS	<ins>
