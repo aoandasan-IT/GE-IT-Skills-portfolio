@@ -20,7 +20,7 @@ A *creative, adaptable mind* with a passion for *solving problems*. A few intere
   
   --> To start a cafe business
 
-# **_REFLECTION_**
+# **_PROJECTS_**
 ## C.R.A.P. PRINCIPLES
 <img width="1342" height="757" alt="image" src="https://github.com/user-attachments/assets/912d0c2a-8828-4104-b6b7-5c61e1b53ede" />
 When putting this together, I wanted my portfolio to feel clean and professional without losing a sense of what makes it represent me. I used a nature-inspired palette of Parchment, Dry Sage, and Hunter Green to fit my personal preference. 
