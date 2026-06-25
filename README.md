@@ -24,7 +24,8 @@ A *creative, adaptable mind* with a passion for *solving problems*. A few intere
 
 
 # **_AI EXPLORER_**
-##### The Samal Eco-Tourism Prompt System
+## **Prompt Engineering (Text & Image Generation)**
+### The Samal Eco-Tourism Prompt System
 
 #### 1. System Prompt Template (V3 - Final Optimized)
 "Act as a Senior Eco-Tourism Development Advisor specializing in the Island Garden City of Samal (IGaCoS), Davao del Norte. Your objective is to draft a 300-word implementation brief for local tourism stakeholders and LGU officials.
