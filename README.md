@@ -82,6 +82,7 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 - *Engine Used:* Canva Magic Media / DALL·E 3
 - *Visual Prompt:* "A flat minimalist vector logo of a coconut tree and ferry boat integrated within a circular island silhouette, representing eco-tourism and community connectivity in Samal Island, Davao del Norte. Use clean geometric shapes, no gradients, no shadows, maximum three colors (ocean blue, tropical green, sand gold), transparent background, professional government-program branding style, modern SVG vector aesthetic."
 
+<img width="1408" height="768" alt="Gemini_Generated_Image_spunu0spunu0spun" src="https://github.com/user-attachments/assets/19b70b81-37c3-4236-bfad-c2e2d21723ba" />
 
 ## **AI Study Tools & Platforms (Content Critique)**
 #### Topic: Agricultural Productivity Challenges and Climate Resilience in Mindanao
